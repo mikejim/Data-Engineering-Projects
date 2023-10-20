@@ -1,0 +1,6 @@
+selected resource name:		dataflow1
+selected resource type:		dataflow
+factory name:			dataMiningCovidReportADF
+factory location:		eastus
+subscription id:		0ef35afe-872d-429c-a9eb-fff173bc9b91
+time of download (UTC):		Wed, 04 Oct 2023 21:12:33 GMT
